@@ -1,1 +1,2 @@
-# itss-nhat-1
+# Cấu trúc dự án
+-design: lưu trữ dữ liệu liên quan đến thiết kế hệ thống
