@@ -52,3 +52,45 @@ Sau khi chạy xong, bạn có thể truy cập giao diện tại địa chỉ h
 - Frontend: `http://localhost:5173`
 - Backend API: `http://localhost:8000`
 - Database (MySQL): Port `3307`
+
+---
+
+## 4. Tài khoản mẫu
+
+Tất cả tài khoản dùng mật khẩu chung: **`Password@123`**
+
+| Email | Vai trò | Trạng thái | Ghi chú |
+|---|---|---|---|
+| `nguyen.tuan@gmail.com` | USER | Đã xác thực | Học N3 |
+| `tran.linh@gmail.com` | USER | Đã xác thực | Học N4 |
+| `pham.anh@gmail.com` | USER | Đã xác thực | Level N2 |
+| `le.mai@gmail.com` | USER | **Chưa xác thực** | Dùng để test OTP |
+| `hoang.duc@gmail.com` | USER | Đã xác thực | Level N1 |
+| `organizer.han@weconnect.vn` | ORGANIZER | Đã xác thực | Tổ chức sự kiện HN |
+| `organizer.minh@weconnect.vn` | ORGANIZER | Đã xác thực | Tổ chức sự kiện HCM |
+
+---
+
+## 5. Danh sách chức năng (Feature Checklist)
+
+Dưới đây là danh sách các tính năng được phát triển dựa trên [tài liệu đặc tả](dac_ta.md), sắp xếp theo đúng ID:
+
+- [x] ID 1: **Thiết kế cơ sở dữ liệu**
+- [x] ID 2: **Thiết lập môi trường phát triển**
+- [x] ID 3: **Đăng ký tài khoản**
+- [x] ID 4: **Đăng nhập**
+- [x] ID 5: **Quên mật khẩu**
+- [x] ID 6: **Quản lý hồ sơ**
+- [-] ID 7: **Quản lý & Thống kê sự kiện**
+- [ ] ID 9: **Tìm kiếm người dùng**
+- [ ] ID 16: **Lọc kết quả tìm kiếm**
+- [ ] ID 10: **Gửi lời mời kết bạn**
+- [ ] ID 11: **Quản lý lời mời kết bạn**
+- [ ] ID 12: **Quản lý bạn bè & huỷ kết bạn**
+- [ ] ID 15: **Gợi ý kết bạn**
+- [ ] ID 17: **Sự kiện & Trò chơi**
+- [ ] ID 18: **Thiết lập hạ tầng WebSocket**
+- [ ] ID 13: **Nhắn tin / Gọi điện / Dịch tin nhắn**
+- [ ] ID 8: **Tích hợp API bên thứ 3 (OTP & Dịch thuật)**
+- [ ] ID 14: **Chuyển đổi ngôn ngữ**
+
