@@ -77,17 +77,17 @@ Dưới đây là danh sách các tính năng được phát triển dựa trên
 
 - [x] ID 1: **Thiết kế cơ sở dữ liệu**
 - [x] ID 2: **Thiết lập môi trường phát triển**
-- [x] ID 3: **Đăng ký tài khoản**
-- [x] ID 4: **Đăng nhập**
-- [x] ID 5: **Quên mật khẩu**
-- [x] ID 6: **Quản lý hồ sơ**
+- [x] ID 3: **Đăng ký tài khoản** ![Ảnh 1](<checklist/Đăng ký tài khoản 1.png>)![Ảnh 2](<checklist/Đăng ký tài khoản 2.png>)
+- [x] ID 4: **Đăng nhập**![Ảnh 1](<checklist/Đăng nhập.png>)![Ảnh 2](<checklist/Đăng nhập 2.png>)
+- [x] ID 5: **Quên mật khẩu**![Ảnh 1](<checklist/Quên mật khẩu 1.png>)![Ảnh 2](<checklist/Quên mật khẩu 2.png>)
+- [x] ID 6: **Quản lý hồ sơ**![Ảnh 1](<checklist/Quản lí hồ sơ 2.png>)![Ảnh 2](<checklist/Quản lí hồ sơ 3.png>)
 - [-] ID 7: **Quản lý & Thống kê sự kiện**
 - [-] ID 9: **Tìm kiếm người dùng**
 - [-] ID 16: **Lọc kết quả tìm kiếm**
-- [x] ID 10: **Gửi lời mời kết bạn**
-- [x] ID 11: **Quản lý lời mời kết bạn**
-- [x] ID 12: **Quản lý bạn bè & huỷ kết bạn**
-- [x] ID 15: **Gợi ý kết bạn**
+- [x] ID 10: **Gửi lời mời kết bạn**![Ảnh 1](<checklist/Gửi lời mời kết bạn 1.png>)![Ảnh 2](<checklist/Gửi lời mời kết bạn 2.png>)
+- [x] ID 11: **Quản lý lời mời kết bạn**! ![Ảnh](<checklist/Hủy kết bạn 1.png>)
+- [x] ID 12: **Quản lý bạn bè & huỷ kết bạn**![Ảnh 1](<checklist/Hủy kết bạn 1.png>)![Ảnh 2](<checklist/Hủy kết bạn 2.png>)
+- [x] ID 15: **Gợi ý kết bạn**![Ảnh](<checklist/Gửi lời mời kết bạn 2.png>)
 - [ ] ID 17: **Sự kiện & Trò chơi**
 - [ ] ID 18: **Thiết lập hạ tầng WebSocket**
 - [ ] ID 13: **Nhắn tin / Gọi điện / Dịch tin nhắn**
