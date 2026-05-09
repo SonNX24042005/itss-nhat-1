@@ -84,10 +84,10 @@ Dưới đây là danh sách các tính năng được phát triển dựa trên
 - [-] ID 7: **Quản lý & Thống kê sự kiện**
 - [-] ID 9: **Tìm kiếm người dùng**
 - [-] ID 16: **Lọc kết quả tìm kiếm**
-- [-] ID 10: **Gửi lời mời kết bạn**
-- [-] ID 11: **Quản lý lời mời kết bạn**
-- [-] ID 12: **Quản lý bạn bè & huỷ kết bạn**
-- [-] ID 15: **Gợi ý kết bạn**
+- [x] ID 10: **Gửi lời mời kết bạn**
+- [x] ID 11: **Quản lý lời mời kết bạn**
+- [x] ID 12: **Quản lý bạn bè & huỷ kết bạn**
+- [x] ID 15: **Gợi ý kết bạn**
 - [ ] ID 17: **Sự kiện & Trò chơi**
 - [ ] ID 18: **Thiết lập hạ tầng WebSocket**
 - [ ] ID 13: **Nhắn tin / Gọi điện / Dịch tin nhắn**
