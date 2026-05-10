@@ -92,5 +92,5 @@ Dưới đây là danh sách các tính năng được phát triển dựa trên
 - [ ] ID 18: **Thiết lập hạ tầng WebSocket**
 - [ ] ID 13: **Nhắn tin / Gọi điện / Dịch tin nhắn**
 - [x] ID 8: **Tích hợp API bên thứ 3 (OTP & Dịch thuật)**
-- [ ] ID 14: **Chuyển đổi ngôn ngữ**
+- [x] ID 14: **Chuyển đổi ngôn ngữ**
 
