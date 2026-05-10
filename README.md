@@ -82,12 +82,12 @@ Dưới đây là danh sách các tính năng được phát triển dựa trên
 - [x] ID 5: **Quên mật khẩu**![Ảnh 1](<checklist/Quên mật khẩu 1.png>)![Ảnh 2](<checklist/Quên mật khẩu 2.png>)
 - [x] ID 6: **Quản lý hồ sơ**![Ảnh 1](<checklist/Quản lí hồ sơ 2.png>)![Ảnh 2](<checklist/Quản lí hồ sơ 3.png>)
 - [-] ID 7: **Quản lý & Thống kê sự kiện**
-- [-] ID 9: **Tìm kiếm người dùng**
-- [-] ID 16: **Lọc kết quả tìm kiếm**
+- [x] ID 9: **Tìm kiếm người dùng**![Ảnh](<checklist/Tìm kiếm người dùng.png>)
 - [x] ID 10: **Gửi lời mời kết bạn**![Ảnh 1](<checklist/Gửi lời mời kết bạn 1.png>)![Ảnh 2](<checklist/Gửi lời mời kết bạn 2.png>)
-- [x] ID 11: **Quản lý lời mời kết bạn**! ![Ảnh](<checklist/Hủy kết bạn 1.png>)
+- [x] ID 11: **Quản lý lời mời kết bạn** ![Ảnh](<checklist/Hủy kết bạn 1.png>)
 - [x] ID 12: **Quản lý bạn bè & huỷ kết bạn**![Ảnh 1](<checklist/Hủy kết bạn 1.png>)![Ảnh 2](<checklist/Hủy kết bạn 2.png>)
 - [x] ID 15: **Gợi ý kết bạn**![Ảnh](<checklist/Gửi lời mời kết bạn 2.png>)
+- [x] ID 16: **Lọc kết quả tìm kiếm**![Ảnh 1](<checklist/Lọc kết quả tìm kiếm 1.png>)![Ảnh 2](<checklist/Lọc kết quả tìm kiếm 2.png>)![Ảnh 3](<checklist/Lọc kết quả tìm kiếm 3.png>)![Ảnh 4](<checklist/Lọc kết quả tìm kiếm 4.png>)
 - [ ] ID 17: **Sự kiện & Trò chơi**
 - [ ] ID 18: **Thiết lập hạ tầng WebSocket**
 - [ ] ID 13: **Nhắn tin / Gọi điện / Dịch tin nhắn**
