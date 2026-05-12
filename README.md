@@ -47,6 +47,7 @@ Dưới đây là các bước đơn giản nhất để khởi động dự án
 - **Frontend**: Kiểm tra file `frontend/.env`. Đảm bảo có dòng:
   ```env
   VITE_API_URL=http://localhost:8000
+  VITE_LIVEKIT_URL=wss://itss1-weconnect-br1ikdgy.livekit.cloud
   ```
 
 ## 2. Chạy Docker (Database & Backend)
@@ -55,7 +56,8 @@ Mở terminal tại thư mục gốc của dự án (`itss-nhat-1`) và chạy:
 
 ```bash
 # Khởi động database và backend
-docker compose up -d
+docker compose down -v 
+docker compose up --build -d
 ```
 
 *Lưu ý: Đợi một lát để database khởi tạo xong (lần đầu sẽ chạy các file SQL trong `database/init`).*
@@ -74,11 +76,11 @@ pnpm install
 pnpm dev
 ```
 
-Sau khi chạy xong, bạn có thể truy cập giao diện tại địa chỉ hiển thị trong terminal (thường là `http://localhost:5173`).
+Sau khi chạy xong, bạn có thể truy cập giao diện tại địa chỉ hiển thị trong terminal (thường là `http://localhost:8080`).
 
 ---
 **Thông tin truy cập mặc định:**
-- Frontend: `http://localhost:5173`
+- Frontend: `http://localhost:8080`
 - Backend API: `http://localhost:8000`
 - Database (MySQL): Port `3307`
 
