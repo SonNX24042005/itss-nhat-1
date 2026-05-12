@@ -8,12 +8,41 @@ Dưới đây là các bước đơn giản nhất để khởi động dự án
 
 - **Backend**: Kiểm tra file `backend/.env`. Nếu chưa có, hãy tạo mới dựa trên thông tin sau:
   ```env
+  # Database
   DB_HOST=db
   DB_PORT=3307
   DB_USER=weconnect_user
   DB_PASSWORD=weconnect_pass_2024
   DB_NAME=weconnect
+
+  # JWT
   SECRET_KEY=cde27db045c47d33eae575896076d9fafa1e063ac0b9343cadcc7a77fc3ae8d8
+  ALGORITHM=HS256
+  ACCESS_TOKEN_EXPIRE_MINUTES=15
+  REFRESH_TOKEN_EXPIRE_DAYS=30
+  RESET_TOKEN_EXPIRE_MINUTES=10
+
+  # OTP
+  OTP_EXPIRE_MINUTES=5
+  # Để trống thì dùng chế độ console log (development)
+  # TWILIO_ACCOUNT_SID=
+  # TWILIO_AUTH_TOKEN=
+  # TWILIO_PHONE_NUMBER=
+  # SENDGRID_API_KEY=
+  RESEND_API_KEY=
+
+  # Upload
+  UPLOAD_DIR=/app/uploads
+  MAX_UPLOAD_SIZE_MB=10
+  GEMINI_API_KEY=
+
+  # Realtime chat (Pusher Channels)
+  # Điền theo App Keys trong Pusher dashboard
+  PUSHER_APP_ID=
+  PUSHER_KEY=
+  PUSHER_SECRET=
+  PUSHER_CLUSTER=ap1
+  PUSHER_SSL=true
   ```
 - **Frontend**: Kiểm tra file `frontend/.env`. Đảm bảo có dòng:
   ```env
@@ -93,4 +122,3 @@ Dưới đây là danh sách các tính năng được phát triển dựa trên
 - [ ] ID 13: **Nhắn tin / Gọi điện / Dịch tin nhắn**
 - [x] ID 8: **Tích hợp API bên thứ 3 (OTP & Dịch thuật)**
 - [x] ID 14: **Chuyển đổi ngôn ngữ**
-
