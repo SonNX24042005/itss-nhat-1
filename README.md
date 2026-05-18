@@ -120,7 +120,7 @@ Dưới đây là danh sách các tính năng được phát triển dựa trên
 - [x] ID 15: **Gợi ý kết bạn**![Ảnh](<checklist/Gửi lời mời kết bạn 2.png>)
 - [x] ID 16: **Lọc kết quả tìm kiếm**![Ảnh 1](<checklist/Lọc kết quả tìm kiếm 1.png>)![Ảnh 2](<checklist/Lọc kết quả tìm kiếm 2.png>)![Ảnh 3](<checklist/Lọc kết quả tìm kiếm 3.png>)![Ảnh 4](<checklist/Lọc kết quả tìm kiếm 4.png>)
 - [ ] ID 17: **Sự kiện & Trò chơi**
-- [ ] ID 18: **Thiết lập hạ tầng WebSocket**
-- [ ] ID 13: **Nhắn tin / Gọi điện / Dịch tin nhắn**
+- [-] ID 18: **Thiết lập hạ tầng WebSocket**
+- [-] ID 13: **Nhắn tin / Gọi điện / Dịch tin nhắn**
 - [x] ID 8: **Tích hợp API bên thứ 3 (OTP & Dịch thuật)**
 - [x] ID 14: **Chuyển đổi ngôn ngữ**
